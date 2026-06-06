@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+index/
+data/pubmed_corpus.jsonl
+.venv/
+venv/

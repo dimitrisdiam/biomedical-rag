@@ -1,0 +1,6 @@
+{"question": "How does metformin lower blood sugar?", "relevant_doc_ids": ["doc:metformin"], "expected_keywords": ["liver", "glucose", "insulin"]}
+{"question": "Why do ACE inhibitors cause a cough?", "relevant_doc_ids": ["doc:ace"], "expected_keywords": ["bradykinin", "cough"]}
+{"question": "What is the main safety concern with CRISPR editing?", "relevant_doc_ids": ["doc:crispr"], "expected_keywords": ["off target"]}
+{"question": "What serious muscle side effect can statins cause?", "relevant_doc_ids": ["doc:statins"], "expected_keywords": ["rhabdomyolysis"]}
+{"question": "Do mRNA vaccines change your DNA?", "relevant_doc_ids": ["doc:mrna"], "expected_keywords": ["nucleus", "dna"]}
+{"question": "Which cells produce insulin?", "relevant_doc_ids": ["doc:insulin"], "expected_keywords": ["beta", "pancreas"]}
